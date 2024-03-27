@@ -57,6 +57,7 @@
     "nodemon": "^2.0.7",
     "openfl": "^8.9.6",
     "raphael": "^2.3.0",
+    "raw-loader": "^4.0.2",
     "style-loader": "^0.23.1",
     "three-orbitcontrols-ts": "git+https://git@github.com/nicolaspanel/three-orbitcontrols-ts.git",
     "toast": "^0.2.10",

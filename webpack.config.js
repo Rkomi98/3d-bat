@@ -52,6 +52,10 @@ module.exports = {
                 options: {
                     name: '[name].[ext]',
                 }
+            },
+	    {
+                test: /\.txt$/,
+                use: 'raw-loader',
             }
         ]
     },
